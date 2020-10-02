@@ -33,7 +33,7 @@ public class Country {
         this.name = name;
     }
 
-    public int getPopulation() {
+    public long getPopulation() {
         return population;
     }
 
@@ -41,7 +41,7 @@ public class Country {
         this.population = population;
     }
 
-    public int getLandmasskm2() {
+    public long getLandmasskm2() {
         return landmasskm2;
     }
 
